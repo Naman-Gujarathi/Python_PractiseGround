@@ -1,0 +1,42 @@
+remiander % N/D if D is negative than only answer is negatinve 
+if Numerator is negative than answer is negatinve
+
+
+tupple is similar to list  but immutable
+
+** is exponenet in python
+
+there is no character datatype in python
+
+string we can get character by charcter using [] bracket for ex string[1]
+howerver since string in immutable we cannout use assignment operator
+
+two compare two list we can compares using ==
+
+Dicitonary keys cannot be list because list is mutable and key in dictionary cannot be change
+key can be string, tupple, int, float
+Key are unique
+Dictionary doesnt followu order therefore no concept of index
+
+value in key can be itself a dicitonary
+
+info.keys() will only give outermost key in nested dicitonary
+info.values() will only give outermost values and nested dicitonary will be part of it within values
+here info is name of nested dicitonary
+
+put in java is replaced by update here
+get method is used in both python and java
+
+
+List and Dicitonary cannot be stored in Set because list and dicitonary are mutable
+
+EmptySet can be reperesented as  info = set() # here info is name of set
+
+list = [1,2,3] # to add element we use append method
+tuple = (1,2,3,4)
+map = { "key" : "value"}
+set = {1,2,3} # to add element we use add method
+
+
+Set is mutable but it is element are immutable there we can store list and map as element in Set
+
