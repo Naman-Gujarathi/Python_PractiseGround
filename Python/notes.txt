@@ -40,3 +40,7 @@ set = {1,2,3} # to add element we use add method
 
 Set is mutable but it is element are immutable there we can store list and map as element in Set
 
+for loop has optional else which is only executed when loop is fully executed without break
+
+pass is used as null stementent
+
